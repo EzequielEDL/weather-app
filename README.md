@@ -3,9 +3,7 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
 
-![](header.png)
-
-# [Deploy](https://ezequieledl.github.io/)
+[Deploy](https://ezequieledl.github.io/)
 
 ## Installation
 
