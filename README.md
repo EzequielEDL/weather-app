@@ -1,10 +1,10 @@
-# Product Name
+# Weather App
 > Web application to see the weather in different cities.
 [Deploy](https://ezequieledl.github.io/weather-app/)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
 
-
+[](https://res.cloudinary.com/dcen68vrk/image/upload/v1617010621/GitHub%20Profile/weather-app_bexowt.gif)
 
 ## Installation
 
