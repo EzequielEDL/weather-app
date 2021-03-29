@@ -5,7 +5,7 @@
 
 ![](header.png)
 
-## [Deploy](https://ezequieledl.github.io/)
+# [Deploy](https://ezequieledl.github.io/)
 
 ## Installation
 
