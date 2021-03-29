@@ -1,9 +1,7 @@
 # Product Name
-> Short blurb about what your product does.
+> Web application to see the weather in different cities.
 
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
-
-Web application to see the weather in different cities
 
 ![](header.png)
 
