@@ -1,0 +1,42 @@
+
+.div {
+	display: flex;
+}
+
+#input {
+	min-width: 300px;
+	background-color: rgba(255,255,255,0.1);
+	padding: 0px 16px;
+	min-height: 40px;
+	border-radius: 4px;
+	text-decoration: none;
+	color: white;
+	border: none;
+	outline-style: none;
+	margin-right: 4px;
+	font-family: 'Roboto', sans-serif; 
+}
+
+.btn {
+	background-color: rgba(0,180,216,1);
+	border-radius: 4px;
+	border: none;
+	color: white;
+	min-height: 40px;
+	min-width: 44px;
+	text-align: center;
+	text-decoration: none;
+	transition-duration: 0.4s;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	padding: 0px;
+}
+
+.btn:hover {
+  	box-shadow: 0 4px 8px 0 rgba(0,180,216,0.2), 0 6px 20px 0 rgba(0,180,216,0.19);
+}
+
+.btn:focus {
+    border: none;
+    outline: none;
+}

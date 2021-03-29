@@ -1,0 +1,62 @@
+
+.container {
+	margin: 4% auto;
+	width: 80%;
+	padding: 32px;
+	height: auto;
+	background-color: rgba(0,0,0,0.2);
+	box-shadow: 0 8px 16px 0 rgba(255,255,255,0.06);
+	backdrop-filter: blur(5px);
+	border-radius: 4px;
+	transition: 300ms;
+
+	background-image: linear-gradient(to right, rgba(0,180,216,0), rgba(0,180,216,0.3));
+
+}
+
+.hr {
+	border: 2px solid rgba(255,255,255,0.1);
+	border-radius: 5px;
+}
+
+.container_info {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.intento {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-right: 40px;
+}
+
+.icon {
+	width: 36px;
+}
+
+.subtitle {
+	margin: auto;
+	margin-left: 16px;
+	font-size: 20px;
+	color: rgba(255,255,255,0.61);
+	font-family: 'Roboto', sans-serif;
+}
+
+.title {
+	color: white;
+	margin-bottom: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.h1 {
+	color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; 
+}
