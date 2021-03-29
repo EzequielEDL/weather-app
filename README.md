@@ -1,9 +1,10 @@
 # Product Name
 > Web application to see the weather in different cities.
+[Deploy](https://ezequieledl.github.io/)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
 
-[Deploy](https://ezequieledl.github.io/)
+
 
 ## Installation
 
