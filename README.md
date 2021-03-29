@@ -5,6 +5,8 @@
 
 ![](header.png)
 
+## [Deploy](https://ezequieledl.github.io/)
+
 ## Installation
 
 Windows:
