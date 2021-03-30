@@ -27,5 +27,5 @@ Libraries used:
 
 Api Used:
 
-[api.openweathermap.org](api.openweathermap.org)
+* [api.openweathermap.org](api.openweathermap.org)
 
