@@ -16,8 +16,16 @@ npm install
 
 ## Usage example
 
-To know the weather of a city, you have to write the name in the search bar and add it
+To know the weather of a city, you have to write the name in the search bar and add it.
 
-## API Used
+## Built With
+
+Libraries used:
+
+* [React.js](https://reactjs.org/)
+* [React Router](https://reactrouter.com/)
+
+Api Used:
 
 [api.openweathermap.org](api.openweathermap.org)
+
